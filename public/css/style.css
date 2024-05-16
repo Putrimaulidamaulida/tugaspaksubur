@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    }
+    header, main, footer {
+    padding: 5px;
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    }
+    p { font-size: 18px;}
+.contents {
+margin: 10px;
+}
+nav {
+padding: 5px;
+background-color: #939393;
+border: 1px solid black;
+}
+nav ul {
+list-style-type: none;
+padding: 0 10px 0 10px;
+}
+nav li {
+border: 1px solid black;
+padding: 5px 10px 5px 10px;
+background-color: black;
+}
+nav ul li {
+display: inline;
+margin-right: 10px;
+}
+nav ul li a {
+text-decoration: none;
+color: #f0f0f0;
+}
+footer {
+    text-align: center;
+    clear: both;
+    color: #666;
+    }
